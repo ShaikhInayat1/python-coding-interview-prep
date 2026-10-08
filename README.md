@@ -7,5 +7,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0202-happy-number) |
 | [2235-add-two-integers](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/2235-add-two-integers) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
