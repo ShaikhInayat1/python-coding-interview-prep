@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0202-happy-number) |
+| [0509-fibonacci-number](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0509-fibonacci-number) |
 | [1518-water-bottles](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/1518-water-bottles) |
 | [2235-add-two-integers](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/2235-add-two-integers) |
 ## Hash Table
@@ -31,4 +32,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0066-plus-one) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
