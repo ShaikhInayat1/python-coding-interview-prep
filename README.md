@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0509-fibonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1518-water-bottles](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/1518-water-bottles) |
 | [2235-add-two-integers](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/2235-add-two-integers) |
