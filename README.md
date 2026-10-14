@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1518-water-bottles](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/1518-water-bottles) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0345-reverse-vowels-of-a-string) |
+| [0633-sum-of-square-numbers](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0633-sum-of-square-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -75,4 +77,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0633-sum-of-square-numbers](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
