@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0633-sum-of-square-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/1137-n-th-tribonacci-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0258-add-digits) |
 | [1518-water-bottles](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/1518-water-bottles) |
 ## Array
 |  |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
