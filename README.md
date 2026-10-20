@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0633-sum-of-square-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/1137-n-th-tribonacci-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0633-sum-of-square-numbers) |
 ## Bit Manipulation
 |  |
