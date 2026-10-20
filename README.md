@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0633-sum-of-square-numbers) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Number Theory
 |  |
