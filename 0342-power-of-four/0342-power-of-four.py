@@ -10,14 +10,9 @@ class Solution:
             if(n % 4 != 0):
 
                 return False
-
+            
             else:
-
-                n = n // 4
-
+                n //= 4
+        
         return True
-
-                
-
-
         
