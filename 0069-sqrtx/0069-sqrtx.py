@@ -1,23 +1,21 @@
 class Solution:
     def mySqrt(self, x: int) -> int:
 
-        start = 1
-        end = x
-
+        left = 0
+        right = x
         ans = 0
 
-        while(start <= end):
+        while (left <= right):
 
-            mid = start + (end - start) // 2
+            mid = left +(right - left) // 2
 
-            if(mid * mid <= x):
+            if (mid * mid <= x):
 
                 ans = mid
-                start = mid + 1
-            
+                left = mid + 1
+
             else:
 
-                end = mid - 1
+                right = mid - 1
 
         return ans
-                
