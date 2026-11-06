@@ -1,17 +1,22 @@
 class Solution:
     def addDigits(self, num: int) -> int:
-        
+
         while(num >= 10):
 
-            total = 0
-        
+            sum = 0
+
             while(num > 0):
 
                 digit = num % 10
-                total += digit
+                sum += digit
                 num //= 10
 
-            num = total
+            num = sum
         
         return num
+ 
+
+
+
+
         
