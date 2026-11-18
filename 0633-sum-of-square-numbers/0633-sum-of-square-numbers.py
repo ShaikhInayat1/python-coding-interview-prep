@@ -1,25 +1,24 @@
+import math
 class Solution:
     def judgeSquareSum(self, c: int) -> bool:
 
         start = 0
-        end = int(c ** 0.5)
+        end = math.isqrt(c)
 
         while(start <= end):
 
-            total = start * start + end * end
+            sum = start * start + end * end
 
-            if(total == c):
+            if(sum == c):
 
                 return True
             
-            elif(total > c):
-
-                end -= 1
-            
-            elif(total < c):
+            elif(sum < c):
 
                 start += 1
+            
+            else:
 
+                end -= 1
         
         return False
-        
