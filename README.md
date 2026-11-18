@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0633-sum-of-square-numbers) |
 | [0917-reverse-only-letters](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0917-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0977-squares-of-a-sorted-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
 |  |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0796-rotate-string) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
