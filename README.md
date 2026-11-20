@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0917-reverse-only-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Queue
 |  |
 | ------- |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0977-squares-of-a-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
