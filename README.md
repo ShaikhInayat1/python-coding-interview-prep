@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0643-maximum-average-subarray-i](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
