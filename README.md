@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0633-sum-of-square-numbers) |
 | [0917-reverse-only-letters](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0977-squares-of-a-sorted-array) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ShaikhInayat1/python-coding-interview-prep/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
